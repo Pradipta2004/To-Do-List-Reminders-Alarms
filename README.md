@@ -20,7 +20,7 @@ To see the project in action, clone this repository and open the `index.html` fi
 ---
 
 ## Usage
-
+![ss](https://github.com/user-attachments/assets/4821343b-ce0b-4f46-bc10-22cf2f546c56)
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/todo-list-score-alarm.git
@@ -28,5 +28,6 @@ To see the project in action, clone this repository and open the `index.html` fi
 2.**screenshots**:
 ```markdown
    ![Screenshot](./ss.png)
+
 
 
