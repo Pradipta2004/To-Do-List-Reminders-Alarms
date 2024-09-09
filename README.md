@@ -27,5 +27,6 @@ To see the project in action, clone this repository and open the `index.html` fi
    open todo.html
 2.**screenshots**:
 ```markdown
-   ![](ss.png)
+   ![Screenshot](./ss.png)
+
 
