@@ -24,4 +24,8 @@ To see the project in action, clone this repository and open the `index.html` fi
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/todo-list-score-alarm.git
-   open todo.html 
+   open todo.html
+2.**screenshots**:
+```markdown
+   ![](./ss.png)
+
